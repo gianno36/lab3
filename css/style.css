@@ -75,6 +75,7 @@ footer {
     main,
     footer {
         grid-column: auto;
+        margin-bottom: 20px;
     }
 
     .card-grid {
